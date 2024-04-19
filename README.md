@@ -15,7 +15,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b> About me</b>
 
-<div align="center">
+<div align="start">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width=200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
   <p align="center">
