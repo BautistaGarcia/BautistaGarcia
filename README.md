@@ -125,7 +125,7 @@
 
 <br>
 
-Credit: [Miguel Ángel Vargas Navarro](https://github.com/Miguel-A-VN)
+Credit: [Bautista Garcia Oliver](https://github.com/BautistaGarcia)
 
 Last Edited on: 03/06/2024
 
@@ -136,6 +136,6 @@ Last Edited on: 03/06/2024
 </div>
 
 <!--
-**Miguel-A-VN/Miguel-A-VN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bautista-Garcia-Oliver/Bautista-Garcia-Oliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
