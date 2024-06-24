@@ -56,10 +56,6 @@
 
   <p>
 
-  <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-
   <a href="https://youtu.be/vJapzH_46a8" target="_blank">
   <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
   </a>
