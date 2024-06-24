@@ -95,32 +95,11 @@
 ![Static Badge](https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fgithub.com%2F)
 <br><br>
 
-![Bem](https://img.shields.io/badge/bem-%23000?style=for-the-badge&logo=bem&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fgetbem.com%2F)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.figma.com%2F)
 
 ---
 
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Miguel-A-VN/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-A-VN&include_all_commits=&count_private=true&show_icons=true&line_height=29&title_color=7A7ADB&icon_color=0099ff&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguel-A-VN&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Miguel-A-VN"/>
-</a>
-</div>
-
-<br>
-<br>
-
----
-
-<br>
-
 Credit: [Bautista Garcia Oliver](https://github.com/BautistaGarcia)
 
 Last Edited on: 03/06/2024
